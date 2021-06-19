@@ -1,0 +1,5 @@
+1. Able to fetch contacts list
+
+2. Type in chat and send
+
+3. Send meida files
