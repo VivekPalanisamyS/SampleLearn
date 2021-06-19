@@ -3,3 +3,5 @@
 2. Type in chat and send
 
 3. Send meida files
+
+4. Voice call option enabled
