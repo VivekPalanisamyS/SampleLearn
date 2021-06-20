@@ -6,4 +6,4 @@
 
 4. Voice call option enabled - edited
 
-5. Video call option enabled - added
+5. Video call option enabled - version update
